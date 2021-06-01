@@ -1,0 +1,13 @@
+
+*.shp
+*.sbn
+*.prj
+*.dbf
+*.tif
+*.sbx
+*.xml
+*.shx
+*.RData
+*.Rmd
+*.qgz
+*.R
