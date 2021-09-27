@@ -11,3 +11,5 @@
 *.Rmd
 *.qgz
 *.R
+EmergencyDataHack/datahack/
+*.csv
